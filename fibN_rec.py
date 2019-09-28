@@ -9,3 +9,7 @@ def FibN(n):
 #Printing the fibonacci sequence from 0 to 10
 for nums in range(0,11):
     print("When n= {}, Fibonacci value is: {}".format(nums,FibN(nums)))
+
+
+
+def 
